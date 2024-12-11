@@ -52,5 +52,11 @@ To run UniEventure, you will need:
 - A Java-compatible IDE (like IntelliJ IDEA or Eclipse).
 - Access to text files for managing user, event, and admin data.
 
-## File Structure
+## Installation and Execution
 
+1. Download the repository as a ZIP file from GitHub.
+2. Extract the ZIP file to your desired location.
+3. Open a terminal or command prompt and navigate to the extracted folder.
+4. Compile the program:
+   javac Start.java
+   java Start
